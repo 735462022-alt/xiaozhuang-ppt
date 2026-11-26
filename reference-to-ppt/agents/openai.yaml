@@ -1,0 +1,4 @@
+interface:
+  display_name: "审美PPT"
+  short_description: "只填主题、选一个模板，直接生成4K长图和文字可编辑、页面可重排的PPT原文件"
+  default_prompt: "使用 $reference-to-ppt（审美PPT）制作成品PPT，首次回复请直接询问主题并列出10款模板供我选择，不等待预览加载。"

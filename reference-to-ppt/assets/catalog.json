@@ -1,0 +1,299 @@
+{
+  "version": 1,
+  "default_slide_count": 10,
+  "slide_size": [
+    1280,
+    720
+  ],
+  "export_size": [
+    3840,
+    2160
+  ],
+  "templates": [
+    {
+      "id": "T01",
+      "name": "粉蓝自由拼贴",
+      "palette": [
+        "#CFE8FE",
+        "#5C3130",
+        "#F2CFE5",
+        "#ACE18C",
+        "#FFFBD2"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "Avenir Next Condensed",
+        "PingFang SC",
+        "Yuanti SC"
+      ],
+      "profile": "assets/templates/T01/profile.md",
+      "references": [
+        "assets/templates/T01/reference-1.jpg",
+        "assets/templates/T01/reference-2.jpg",
+        "assets/templates/T01/reference-3.jpg"
+      ],
+      "examples": [
+        "assets/templates/T01/example-01.jpg",
+        "assets/templates/T01/example-03.jpg",
+        "assets/templates/T01/example-05.jpg",
+        "assets/templates/T01/example-08.jpg"
+      ],
+      "image_prompt_style": "纸纹、手作描边大字、眼镜与信封、细星芒、照片错位。蓝色书脊和编辑选框语言交替，布局更自由，英文大字与照片穿插。",
+      "avoid": "不使用规则卡片、普通科技渐变或全套粗黑字。"
+    },
+    {
+      "id": "T02",
+      "name": "荧光数字艺术",
+      "palette": [
+        "#FFFFFF",
+        "#080909",
+        "#EEFF54",
+        "#A7DADF",
+        "#F1F2F0"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T02/profile.md",
+      "references": [
+        "assets/templates/T02/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T02/example-01.jpg",
+        "assets/templates/T02/example-03.jpg",
+        "assets/templates/T02/example-05.jpg",
+        "assets/templates/T02/example-08.jpg"
+      ],
+      "image_prompt_style": "白底、黑黄大圆弧、不等圆角切片、3D收藏级角色。人物为夸张杏仁眼、简化鼻唇、缎面皮肤、几何发束、透明护面与窄眼镜，保持面孔跨切片连续。",
+      "avoid": "避免写实摄影、湿皮毛孔和真人时装肖像。"
+    },
+    {
+      "id": "T03",
+      "name": "镜面铬工作室",
+      "palette": [
+        "#FFFFFF",
+        "#0A0A09",
+        "#C8CDCF",
+        "#FF4B19",
+        "#FFC486"
+      ],
+      "fonts": [
+        "Arial Narrow",
+        "Bodoni 72",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T03/profile.md",
+      "references": [
+        "assets/templates/T03/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T03/example-01.jpg",
+        "assets/templates/T03/example-03.jpg",
+        "assets/templates/T03/example-05.jpg",
+        "assets/templates/T03/example-08.jpg"
+      ],
+      "image_prompt_style": "巨型镜面铬艺术英文，窄体无衬线与高反差衬线斜体穿插，极细横线和大片白。微型趣味物件、真实胶片人像、橙红通透玻璃有厚度与折射。",
+      "avoid": "避免通用3D机器人、塑料金属、重复面板。"
+    },
+    {
+      "id": "T04",
+      "name": "粉绿实验海报",
+      "palette": [
+        "#FCFDF9",
+        "#0A2B19",
+        "#ED78AA",
+        "#A3E2D8",
+        "#123AC3"
+      ],
+      "fonts": [
+        "Arial Black",
+        "Bodoni 72",
+        "Snell Roundhand",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T04/profile.md",
+      "references": [
+        "assets/templates/T04/reference-1.jpg",
+        "assets/templates/T04/reference-2.jpg"
+      ],
+      "examples": [
+        "assets/templates/T04/example-01.jpg",
+        "assets/templates/T04/example-03.jpg",
+        "assets/templates/T04/example-05.jpg",
+        "assets/templates/T04/example-08.jpg"
+      ],
+      "image_prompt_style": "只沿用最终选择的两张参考。失焦过曝粉色摄影，深绿符号流、钴蓝短划线，粗黑紧字距与手写花体、薄荷青巨大数字，透明手袋式生活物件可按主题替换，跨幅裁切。",
+      "avoid": "避免第三张网格参考，也避免镜面铬和均匀几何背景。"
+    },
+    {
+      "id": "T05",
+      "name": "浅蓝办公档案",
+      "palette": [
+        "#D5E8F5",
+        "#F6F5F1",
+        "#9CAFB8",
+        "#B1CBD8",
+        "#151715"
+      ],
+      "fonts": [
+        "Times New Roman",
+        "Songti SC",
+        "PingFang SC",
+        "Arial Narrow"
+      ],
+      "profile": "assets/templates/T05/profile.md",
+      "references": [
+        "assets/templates/T05/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T05/example-01.jpg",
+        "assets/templates/T05/example-03.jpg",
+        "assets/templates/T05/example-05.jpg",
+        "assets/templates/T05/example-08.jpg"
+      ],
+      "image_prompt_style": "薄纸褶皱、亚麻、文件夹、撕边、回形针、旧打字机、银色磨损相框和铅笔速写。衬线大标题与纵向档案层次横版转译，照片与物件错落叠压。",
+      "avoid": "避免粉绿符号流、饱和科技光和整齐三列网页截图。"
+    },
+    {
+      "id": "T06",
+      "name": "电蓝网点剪贴",
+      "palette": [
+        "#027DFE",
+        "#0474EC",
+        "#E2F34B",
+        "#EAE5DF",
+        "#171917"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "Arial Rounded MT Bold",
+        "PingFang SC",
+        "Arial Narrow"
+      ],
+      "profile": "assets/templates/T06/profile.md",
+      "references": [
+        "assets/templates/T06/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T06/example-01.jpg",
+        "assets/templates/T06/example-03.jpg",
+        "assets/templates/T06/example-05.jpg",
+        "assets/templates/T06/example-08.jpg"
+      ],
+      "image_prompt_style": "电蓝与暖灰交替，全幅精细地形闭环线，荧光黄绿尖角星爆，黑白网点照片和粗白撕纸外轮廓，超大圆润数字与几何无衬线，教育海报节奏。",
+      "avoid": "避免普通波浪纹、低精度卡通和沿用打字机材质。"
+    },
+    {
+      "id": "T07",
+      "name": "日式双色编辑册",
+      "palette": [
+        "#FFF43A",
+        "#13B6A0",
+        "#F58DB5",
+        "#69468F",
+        "#F34E62"
+      ],
+      "fonts": [
+        "Bodoni 72",
+        "PingFang SC",
+        "Arial Narrow"
+      ],
+      "profile": "assets/templates/T07/profile.md",
+      "references": [
+        "assets/templates/T07/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T07/example-01.jpg",
+        "assets/templates/T07/example-03.jpg",
+        "assets/templates/T07/example-05.jpg",
+        "assets/templates/T07/example-08.jpg"
+      ],
+      "image_prompt_style": "黄色、青绿、粉红、紫色的出血大圆椭圆，写实人像双色印刷、干净裁切、轻微印刷质感，巨型衬线字跨栏、竖向微标签与错位小照片。",
+      "avoid": "避免撕纸白边、星爆、3D玩具和均匀卡片网格。"
+    },
+    {
+      "id": "T08",
+      "name": "柔光留白摄影",
+      "palette": [
+        "#FFFFFF",
+        "#C9DCD4",
+        "#AAD2CC",
+        "#F0D7BD",
+        "#E9FFB3"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T08/profile.md",
+      "references": [
+        "assets/templates/T08/reference-1.jpg"
+      ],
+      "examples": [
+        "assets/templates/T08/example-01.jpg",
+        "assets/templates/T08/example-03.jpg",
+        "assets/templates/T08/example-05.jpg",
+        "assets/templates/T08/example-08.jpg"
+      ],
+      "image_prompt_style": "大面积白底、浅青天空、暖粉建筑、自然光轻褪色摄影。大圆角照片和错位小窗，Helvetica正体斜体混排，少量浅绿编辑标记，大留白与不等图片面积。",
+      "avoid": "不把大胆排版理解为强烈杂乱，不加高饱和星爆或撕纸。"
+    },
+    {
+      "id": "T09",
+      "name": "液滴玻璃实验",
+      "palette": [
+        "#E4FF47",
+        "#00BFE3",
+        "#BBDADF",
+        "#E6AC94",
+        "#CAC8DF"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "Arial Narrow",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T09/profile.md",
+      "references": [
+        "assets/templates/T09/reference-1.jpg",
+        "assets/templates/T09/reference-2.jpg"
+      ],
+      "examples": [
+        "assets/templates/T09/example-01.jpg",
+        "assets/templates/T09/example-03.jpg",
+        "assets/templates/T09/example-05.jpg",
+        "assets/templates/T09/example-08.jpg"
+      ],
+      "image_prompt_style": "油水微距、透明液滴、金色弯曲液体边界、荧光黄绿尖刺星芒变量艺术字。方法页用青蓝柔焦与银透玻璃雕塑、紧凑黑字、少量细线滑轨。材质真实有折射厚度。",
+      "avoid": "避免普通科技蓝光、塑料图标和把装饰控件伪装为真实软件数据。"
+    },
+    {
+      "id": "T10",
+      "name": "玫粉复古人物志",
+      "palette": [
+        "#EFEAD9",
+        "#DF87B2",
+        "#27251F",
+        "#B6AA9B"
+      ],
+      "fonts": [
+        "Helvetica Neue",
+        "Snell Roundhand",
+        "PingFang SC"
+      ],
+      "profile": "assets/templates/T10/profile.md",
+      "references": [
+        "assets/templates/T10/reference-1.png"
+      ],
+      "examples": [
+        "assets/templates/T10/example-01.jpg",
+        "assets/templates/T10/example-03.jpg",
+        "assets/templates/T10/example-05.jpg",
+        "assets/templates/T10/example-08.jpg"
+      ],
+      "image_prompt_style": "奶油未涂布纸、超大70年代圆润连笔粉字、黑白网点半身人物、铅笔手写、粉色胶带、拍立得和信封。艺术字前后穿插人物，案例重心左右交替。",
+      "avoid": "人物按新主题选择，不默认复制上一套AI创始人。AI生成人物注明编辑插画，不当成纪实或背书。"
+    }
+  ]
+}
